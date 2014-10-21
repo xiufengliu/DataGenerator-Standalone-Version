@@ -1,11 +1,10 @@
 Smart Meter Data Generator
 ======================
-1. Data Generator
-The architecture of the data generator is shown in the following figure. The kernel is the data generator factory, which is responsible for creating a data generator of satisfying a specific data model. The data generator currently is able to generate the following data sets:
+This data generator is a framework that could generate the data for different analytic purpose. The kernel of this data generator is the generator factory, which is responsible for creating different generators that satisfy different data models. This generator currently support the following data sets:
 
-Simple linear regression data
-Multiple linear regression data
-Clustering data
-Smart meter data (satisfying 3-line model with seeded data)
+1. Simple linear regression data
+2. Multiple linear regression data
+3. Clustering data
+4. Smart meter data (satisfying 3-line model with seeded data)
 
-datagenerator.png
+
