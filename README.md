@@ -7,4 +7,4 @@ This data generator is a framework that could generate the data for different an
 3. Clustering data
 4. Smart meter data (satisfying 3-line model with seeded data)
 
-
+To generate smart meter dat
