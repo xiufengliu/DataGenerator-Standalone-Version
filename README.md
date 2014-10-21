@@ -7,3 +7,5 @@ Simple linear regression data
 Multiple linear regression data
 Clustering data
 Smart meter data (satisfying 3-line model with seeded data)
+
+datagenerator.png
