@@ -11,6 +11,6 @@ This data generator is a framework that could generate the data for different an
 
 Compile & Usage
 =====================
-Compile: mvn package
+*Compile:* mvn package
 
-Usage: java org.iss4e.datagen.DataGenMain --help
+*Usage:* java org.iss4e.datagen.DataGenMain --help
