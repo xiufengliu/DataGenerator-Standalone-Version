@@ -1,6 +1,7 @@
 Smart Meter Data Generator (Standalone version)
 ======================
-This data generator is a framework that could generate the data for different analytic purpose. The following figure shows the architecture of the data generator. The kernel is the generator factory, which is responsible for creating the generator that satisfies a specific data model. This generator currently supports generating the following data sets:
+This data generator is a framework that could generate the data for different analytic purpose. It is an standalone version deployed on a single server. For the cluster version that runs on Spark, please refer to 
+The following figure shows the architecture of the data generator. The kernel is the generator factory, which is responsible for creating the generator that satisfies a specific data model. This generator currently supports generating the following data sets:
 
 ![Data Generator Architecutre](architecture.png "Data generator")
 
